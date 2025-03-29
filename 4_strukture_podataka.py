@@ -80,3 +80,4 @@ print ("Danijel predaje " + kursevi ["Danijel"] + " a " + "Jovana predaje " + ku
 
 projekti = {"prvi projekat": 6, "drugi projekat": [2,2,2]}
 print ("Prvi projekat traje " + str(projekti["prvi projekat"]) + " mjeseci")
+print ("Drugi projekat traje" + str(projekti["drugi projekat"]) + " mjeseci")
